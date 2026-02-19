@@ -17,7 +17,7 @@ Requirements:
 1. Generate a complete, executable {dialect} query that can be run directly
 2. Query only necessary columns
 3. Don't wrap column names in double quotes (") as delimited identifiers
-4. Unless specified, limit results to 5 rows
+4. Unless specified, limit results to 100 rows
 5. Use date('now') for current date references
 6. The response format should not include special characters like ```, \n, \", etc.
 
